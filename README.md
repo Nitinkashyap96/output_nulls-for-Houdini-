@@ -50,9 +50,8 @@ Python : 3.11
 
 
 
+<img width="1773" height="1544" alt="Screenshot 2025-12-27 002644" src="https://github.com/user-attachments/assets/e534a4e8-0e66-4764-9353-f9972bc37a50" />
 
-
-<img width="1213" height="1337" alt="Screenshot 2025-12-26 235839" src="https://github.com/user-attachments/assets/9443d3eb-5856-42c1-acba-b7a5be5dfac6" />
 
 # polished, stylish buttons:
 
