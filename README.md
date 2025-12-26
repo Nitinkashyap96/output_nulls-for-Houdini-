@@ -53,5 +53,9 @@ Python : 3.11
 
 
 <img width="1213" height="1337" alt="Screenshot 2025-12-26 235839" src="https://github.com/user-attachments/assets/9443d3eb-5856-42c1-acba-b7a5be5dfac6" />
+
+# polished, stylish buttons:
+
 <img width="852" height="1172" alt="Screenshot 2025-12-26 235934" src="https://github.com/user-attachments/assets/37cf1744-b8cf-4a03-848e-c9732740fdbb" />
+
 <img width="793" height="1102" alt="Screenshot 2025-12-26 235945" src="https://github.com/user-attachments/assets/c14a3781-4eaf-44ab-8112-f4a368da16a8" />
