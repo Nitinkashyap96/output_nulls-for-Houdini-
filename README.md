@@ -3,9 +3,6 @@ HI im Nitin Kashyap    Python Scripts for Houdini
 
 
 
-# Pipeline-Tools-nuke_installer
-HI im Nitin Kashyap   VFX Compositor
-
 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
