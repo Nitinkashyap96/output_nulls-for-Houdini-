@@ -32,7 +32,7 @@ HI im Nitin Kashyap    Python Scripts for Houdini
 # Installation   :
 
 
-    git clone https://github.com/Nitinkashyap96/Pipeline-Tools-nuke_installer.git
+    git clone https://github.com/Nitinkashyap96/output_nulls-for-Houdini-.git
 
 
   
